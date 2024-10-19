@@ -1,0 +1,19 @@
+JAVA NOTES
+
+* Try and Catch are used to:
+            Try: The action
+            Catch: How to handle in the case of an error - Displaying a message, performing an action, etc.
+
+* ImageIO - Reading files
+
+* JAVA IS OBJECT ORIENTED.
+
+* Main in this case is used to display the window, and run another part of the program, which later uses more parts of the program
+
+* == means you are comparing values, "if this equals that". where, = means you are assigning
+
+*  && is the AND operator, || is the OR operator.
+
+* Switch operator may be used instead of many IF statements
+
+* Note to self: never try make a character again.
