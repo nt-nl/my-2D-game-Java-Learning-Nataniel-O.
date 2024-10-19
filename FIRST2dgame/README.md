@@ -10,4 +10,7 @@ Any folders other than these are pretty much useless.
 
 the game is not very good don't waste your time on it!
     
-![image](https://github.com/user-attachments/assets/af380505-c5f0-47b8-aa05-b00569dff086)
+![image](https://github.com/user-attachments/assets/e18d9cd8-e77e-4f20-a4a6-5b3a195dc41e)
+![image](https://github.com/user-attachments/assets/7efd3980-fe03-4187-b17f-e215e7543707)
+![image](https://github.com/user-attachments/assets/75d7fc61-dc9e-4765-92c8-3d8f61332231)
+
