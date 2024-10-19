@@ -9,4 +9,5 @@ This was my process of learning the syntax and basics of Java through creating a
 Any folders other than these are pretty much useless.
 
 the game is not very good don't waste your time on it!
-
+    
+![image](https://github.com/user-attachments/assets/af380505-c5f0-47b8-aa05-b00569dff086)
